@@ -1,2 +1,2 @@
-# Indus-Water-Treaty
-A static website describing the Indus Water Treaty
+# Indus bWater Treaty Webpage
+A static webpage describing the Indus Water Treaty
